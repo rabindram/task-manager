@@ -1,0 +1,44 @@
+.home-content{
+  margin: auto;
+  margin-top: 20px;
+}
+
+.home-content-1{
+  height: 500px;
+}
+
+.home-content-2{
+  height: 500px;
+}
+
+.home-content-text{
+  margin: auto;
+}
+
+.login-content, .signup-content{
+  margin: auto;
+}
+
+.card-body{
+  margin: 30px 10px;
+}
+
+.button-edit{
+  margin-right: 10px;
+}
+
+.content-body{
+  margin: 10px 0px;
+}
+
+.form-addTask{
+  margin-left: 250px;
+}
+
+.form-data-input{
+  margin: 10px;
+}
+
+.form-data-input-1{
+  margin-right: 10px;
+}
